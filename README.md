@@ -4,9 +4,9 @@
 
 Herramientas: 
 
-*Cucumber. 
-*Eclipse. 
-*Java. 
-*Junit. 
-*Gherkin.
+* Cucumber. 
+* Eclipse. 
+* Java. 
+* Junit. 
+* Gherkin.
 
