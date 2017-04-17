@@ -1,4 +1,12 @@
-# FalabellaQA
+# Falabella QA
 
-# Herramientas: *Cucumber. *Eclipse. *Java. *Junit. *Gherkin.
+### Casos de pruebas de Linkedin (IE, Chrome)
+
+Herramientas: 
+
+*Cucumber. 
+*Eclipse. 
+*Java. 
+*Junit. 
+*Gherkin.
 
